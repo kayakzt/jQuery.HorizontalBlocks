@@ -1,5 +1,6 @@
 #jQuery HorizontalBlocks v1.2 -
 jQuery Horizonal Blocks can change your website to scrollable horizontal blocks easily.  
+  
 Open source under the BSD License.  
 Copyright 2013 Kakurezatou <[http://kakurezatou.com/](http://kakurezatou.com/)>  
 All rights reserved.  
