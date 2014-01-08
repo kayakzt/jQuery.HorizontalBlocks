@@ -11,7 +11,7 @@ Loading jQuery and Horizonal Blocks,
 <script src="jquery.js" type="text/javascript"></script>
 <script src="jquery.HorizontalBlocks.1.0.js" type="text/javascript"></script>
 ```
-then write below html tags. It must be under the <body> tag.  
+then write below html tags. It must be under the body tag.  
 ```html
 <ul id="blocks">
     <li>Block1 Contents</li>
@@ -42,12 +42,12 @@ $(document).HorizontalBlocks({
 If you loaded jQuery easing plugin, you could use more scroll option. 
 jQuery easing plugin can download [here](http://gsgd.co.uk/sandbox/jquery/easing/).  
 ##revealed probrem
-*collupse layout when access small display
+* collupse layout when access small display
 
 
 ##Release note
 2013/02/23 Publish v1.2  
-*fix scrolling performance on iOS and Android.  
-*add swipe scrolling when access touch devices.  
+* fix scrolling performance on iOS and Android.  
+* add swipe scrolling when access touch devices.  
   
 2013/02/09 Publish v1.0  
