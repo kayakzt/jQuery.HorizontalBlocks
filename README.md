@@ -1,0 +1,20 @@
+jQuery HorizontalBlocks v1.2 -
+
+
+Open source under the BSD License.
+
+
+Copyright 2013 Kakurezatou <http://kakurezatou.com/>
+All rights reserved.
+
+//revealed probrem
+    *collupse layout when access small display
+
+
+//Release note
+
+2013/02/23 Publish v1.2
+    * fix scrolling performance on iOS and Android.
+    * add swipe scrolling when access touch devices.
+
+2013/02/09 Publish v1.0
